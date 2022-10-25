@@ -66,7 +66,7 @@ const counterReducer = (state = initialCounterState, action) => {
 	}
 };
 
-// Store hold states. Store has 3 methods - getState(), dispatch(), subscribe()
+// Store hold states. Store has 3 methods - getState(), dispatch() and subscribe()
 // getState() - Show store status
 // dispatch() - dispatch actions
 // subscribe() - subscribe view
